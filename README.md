@@ -12,7 +12,7 @@
 ## 🧠 About Me
 I'm an **Information Systems student** at **UIT** with a strong interest in:
 - Cloud Computing (Azure)
-- Big Data Processing (Spark, HadooStudentp)
+- Big Data Processing (Spark, Hadoop)
 - Data Warehousing & ETL Pipelines
 - Business Intelligence (BI)
 
@@ -55,23 +55,45 @@ I enjoy building **scalable data infrastructures**, optimizing **data pipelines*
 
 ## 🚀 Projects
 
-### 🔹 Customer Purchase Pattern Analysis — *Big Data Pipeline*
-📌 **Tech stack:** Azure, PySpark, Hadoop MapReduce, Power BI  
-🔗 [Link to Repository]
+## 🔹 Youtube API ELT — Automated Data Pipeline  
 
-- Built an end-to-end pipeline processing **500K+ transaction records**
-- Implemented **ETL processes** using Azure Databricks and **RFM Analysis** using MapReduce
-- Integrated **K-Means Clustering** for customer segmentation and visualized insights on Power BI
+📌 **Tech stack:** Python, Airflow, Docker, PostgreSQL, SODA, GitHub Actions  
+
+🔗 [https://github.com/aqua-277353/Youtube_ETL](https://github.com/aqua-277353/Youtube_ETL)
+
+### 📖 Project Overview
+
+- Orchestrated an automated ELT pipeline using Airflow to extract and process YouTube API data  
+- Containerized the workflow with Docker and managed data storage across PostgreSQL schemas  
+- Implemented CI/CD via GitHub Actions with SODA and pytest for data quality assurance  
 
 ---
 
-### 🔹 Flight Delay Insurance DApp
-📌 **Tech stack:** Solidity, ReactJS, Blockchain  
-🔗 [Link to Repository]
+## 🔹 E-Commerce Data Warehouse & OLAP Project  
 
-- Designed a **decentralized application** for automated insurance claims
-- Wrote Smart Contracts to handle payouts transparently
-- Explored Web3 integration with frontend applications
+📌 **Tech stack:** Python, SQL Server, SSIS, SSAS, MDX, Power BI, Looker Studio  
+
+🔗 [https://github.com/aqua-277353/E-Commerce_Data_Warehouse](https://github.com/aqua-277353/E-Commerce_Data_Warehouse) 
+
+### 📖 Project Overview
+
+- Built a **Star Schema Data Warehouse** and implemented a complete **end-to-end BI pipeline**  
+- Performed **ETL processes using SSIS** and developed **OLAP cubes with SSAS** for multidimensional analysis  
+- Designed interactive dashboards for **RFM analysis** and business insights using **Power BI** and **Looker Studio**  
+
+---
+
+## 🔹 Cloud Big Data Project — Customer Purchase Pattern Analysis  
+
+📌 **Tech stack:** Azure Cloud (Databricks, HDInsight, Azure ML, ADLS Gen2), PySpark  
+
+🔗 [https://github.com/aqua-277353/retail-customer-analytics](https://github.com/aqua-277353/azure-retail-purchase-analysis)
+
+### 📖 Project Overview
+
+- Architected an end-to-end, fully cloud-based data pipeline on Azure to process 541K+ retail transactions, achieving 4x faster execution via distributed computing.  
+- Deployed a scalable K-Means segmentation model (89% accuracy) using Azure ML Managed Endpoints for visualization.  
+- Leveraged Azure Data Lake Gen2 and Databricks to build a high-performance, secure cloud infrastructure from raw data ingestion to Power BI dashboards.  
 
 ---
 
