@@ -55,6 +55,20 @@ I enjoy building **scalable data infrastructures**, optimizing **data pipelines*
 
 ## 🚀 Projects
 
+## 🔹 Cloud Big Data Project — Customer Purchase Pattern Analysis  
+
+📌 **Tech stack:** Azure Cloud (Databricks, HDInsight, Azure ML, ADLS Gen2), PySpark  
+
+🔗 [https://github.com/aqua-277353/retail-customer-analytics](https://github.com/aqua-277353/azure-retail-purchase-analysis)
+
+### 📖 Project Overview
+
+- Architected an end-to-end, fully cloud-based data pipeline on Azure to process 541K+ retail transactions, achieving 4x faster execution via distributed computing.  
+- Deployed a scalable K-Means segmentation model (89% accuracy) using Azure ML Managed Endpoints for visualization.  
+- Leveraged Azure Data Lake Gen2 and Databricks to build a high-performance, secure cloud infrastructure from raw data ingestion to Power BI dashboards.  
+
+---
+
 ## 🔹 Youtube API ELT — Automated Data Pipeline  
 
 📌 **Tech stack:** Python, Airflow, Docker, PostgreSQL, SODA, GitHub Actions  
@@ -83,26 +97,11 @@ I enjoy building **scalable data infrastructures**, optimizing **data pipelines*
 
 ---
 
-## 🔹 Cloud Big Data Project — Customer Purchase Pattern Analysis  
-
-📌 **Tech stack:** Azure Cloud (Databricks, HDInsight, Azure ML, ADLS Gen2), PySpark  
-
-🔗 [https://github.com/aqua-277353/retail-customer-analytics](https://github.com/aqua-277353/azure-retail-purchase-analysis)
-
-### 📖 Project Overview
-
-- Architected an end-to-end, fully cloud-based data pipeline on Azure to process 541K+ retail transactions, achieving 4x faster execution via distributed computing.  
-- Deployed a scalable K-Means segmentation model (89% accuracy) using Azure ML Managed Endpoints for visualization.  
-- Leveraged Azure Data Lake Gen2 and Databricks to build a high-performance, secure cloud infrastructure from raw data ingestion to Power BI dashboards.  
-
----
-
 ## 🧩 Algorithm & Problem Solving
-- Focus on **LeetCode (SQL & Algorithms)**
+- Active problem solving on **LeetCode (SQL & Algorithms)**
 - Strong understanding of:
   - Database Optimization
-  - Array & String Manipulation
-  - HashMaps & Two Pointers
+  - Array & Two Pointers
   - Data Structures
 
 ### 📊 LeetCode Stats
