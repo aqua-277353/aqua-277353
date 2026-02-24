@@ -105,7 +105,7 @@ I enjoy building **scalable data infrastructures**, optimizing **data pipelines*
   - Data Structures
 
 ### 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/CmDDb4w3fy?theme=dark&font=JetBrains%20Mono)
+![LeetCode Stats](https://leetcard.jacoblin.cool/aqua277353?theme=dark&font=JetBrains%20Mono)
 ---
 
 ## 📫 Contact
